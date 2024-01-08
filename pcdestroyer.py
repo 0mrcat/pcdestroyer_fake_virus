@@ -1,3 +1,4 @@
+#ᴍᴀᴅᴇ ʙʏ ᴅᴏʀᴏⓒ
 import time
 import webbrowser
 from playsound import playsound
