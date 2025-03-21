@@ -1,4 +1,4 @@
-#ᴍᴀᴅᴇ ʙʏ ᴅᴏʀᴏⓒ
+#MADE BY MRCAT
 import time
 import webbrowser
 from playsound import playsound
